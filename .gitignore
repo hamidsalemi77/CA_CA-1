@@ -1,3 +1,8 @@
-
+work
 *.~vsdx
 Report/~WRL1167.tmp
+*.mti
+*.mpf
+*.docx
+work/_info
+work/_vmake
